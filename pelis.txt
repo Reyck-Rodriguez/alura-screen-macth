@@ -1,0 +1,1 @@
+[{"Nombre":"Avatar","FechaDeLanzamiento":2009,"IncluidoEnElPlan":false,"SumaDeLasEvaluaciones":0.0,"TotalDeEvaluaciones":0,"DuracionEnMinutos":162},{"Nombre":"La peli","FechaDeLanzamiento":2007,"IncluidoEnElPlan":false,"SumaDeLasEvaluaciones":0.0,"TotalDeEvaluaciones":0,"DuracionEnMinutos":120}]
